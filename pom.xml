@@ -11,6 +11,7 @@
 
     <modules>
         <module>a-rule-of-divisibility-by-13</module>
+        <module>number-of-trailing-zeros-of-n-factorial</module>
     </modules>
 
     <properties>
