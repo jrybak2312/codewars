@@ -11,6 +11,7 @@
 
     <modules>
         <module>a-rule-of-divisibility-by-13</module>
+        <module>josephus-survivor</module>
     </modules>
 
     <properties>
